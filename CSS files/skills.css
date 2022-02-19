@@ -1,0 +1,11 @@
+.rightContent > .skillTable{
+    height: 60%;
+    width: 70%;
+    border-collapse: collapse;
+    font-size: 18px;
+    margin-left: -5%;
+
+}
+li{
+    margin-bottom: 5%;
+}
