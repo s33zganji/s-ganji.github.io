@@ -1,0 +1,32 @@
+.rightContent > #photoDiv{
+    height: 30%;
+    /*height: 499px;*/
+    /*width: 293px;*/
+    width: 11%;
+    border: 5px solid rgb(0,0,0,0.5);
+    /*border-radius: 50% 50% 50% 50%;*/
+}
+.rightContent > #infoDiv{
+    height: 50%;
+    width: 100%;
+    /*background-color: aquamarine;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 2%;
+}
+#infoDiv > .nameHeader{
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    /*background-color: aqua;*/
+}
+a.leftDivLinks:link{
+    color: black;
+}
+a.leftDivLinks:hover i{
+    box-shadow: 5px 5px 5px gray;
+    transform: scale(1.1);
+}
+
