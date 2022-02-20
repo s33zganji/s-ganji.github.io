@@ -2,9 +2,9 @@
     height: 30%;
     /*height: 499px;*/
     /*width: 293px;*/
-    width: 11%;
+    width: 18%;
     border: 5px solid rgb(0,0,0,0.5);
-    /*border-radius: 50% 50% 50% 50%;*/
+    border-radius: 50% 50% 50% 50%;
 }
 .rightContent > #infoDiv{
     height: 50%;
